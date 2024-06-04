@@ -1,4 +1,4 @@
-## Este é um trabalho apresentado à disciplina de Ambientes em Computação do programa de blá blá ...
+## Este é um trabalho apresentado à disciplina de Ambientes em Computação do programa de pós-graduação em Bioinformática e Ciências da Computação
 Alunos: Fabiano, Helena, Rossana e Thaiane  
 Algoritmo implementado: Algoritmo de sequênciamento de Needleman Wunch  
 
